@@ -1,0 +1,15 @@
+{
+    "name": "max/library",
+    "autoload": {
+        "psr-4": {
+            "Library\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maksim Vinchenko",
+            "email": "volynretrashetyn@gmail.com"
+        }
+    ],
+    "require": {}
+}
